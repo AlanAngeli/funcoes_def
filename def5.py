@@ -32,7 +32,7 @@ o valor do primeiro número somado do aumento do percentual do mesmo
 """
 
 def aumento_percentual(valor, percentual):
-    print(valor + (valor * percentual / 100))
+    return(valor + (valor * percentual / 100))
 
 aumento_percentual(50, 100)
 aumento_percentual(100, 10)
