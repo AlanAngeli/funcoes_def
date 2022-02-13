@@ -16,7 +16,13 @@ def fizzBuzz(n):
     else:
         return n
 
-print (fizzBuzz(5))
+from random import randint
+
+for i in range(10):
+    aleatorio = randint(0,100) #gerar números aleatórios entre 0 a 100, sendo 10 números gerados
+    print(fizzBuzz(aleatorio))
+
+
 
 #modo mais limpo de escrever o mesmo código
 #    if n % 3 == 0 and n % 5 == 0:
