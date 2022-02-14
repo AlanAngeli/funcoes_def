@@ -28,6 +28,17 @@ print(*lista, sep="*")
 print(*lista, sep="$$$")
 
 
+def func(*args2):
+    print(args2)
+    print(args2[0])
+    print(args2[-1])
+    print(len(args2))
+
+func(1,2,3,4,5)
+
+
+
+
 
 
 
