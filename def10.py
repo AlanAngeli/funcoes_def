@@ -13,5 +13,7 @@ def func(*args,**kwargs):
 lista = [1,2,3]
 func(*lista, nome = "Alan", idade = 31)
 
+#func(*lista, nome = "Alan", idade = None)
+
 
 
