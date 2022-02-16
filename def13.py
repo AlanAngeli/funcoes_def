@@ -1,5 +1,5 @@
 def func():
-    variavel = "Alan Angeli"
+    variavel = "Alan"
     return variavel
 
 def func2(arg):
