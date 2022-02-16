@@ -1,4 +1,4 @@
-""" Melhor maneira de substituir a variavel, não usando a função global"""
+""" Melhor maneira de substituir a variavel, não usando a função global."""
 
 var = "valor"
 
