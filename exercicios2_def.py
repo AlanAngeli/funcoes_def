@@ -1,7 +1,7 @@
 """
 
 Crie uma função1 que receba uma função2 como parâmetro e retorne o valor da função2 executada. Faça a função1 executar
-duas fynções que recebam um número diferente de argumentos.
+duas fynções que recebam um número diferente de argumentos
 
 """
 
